@@ -1,0 +1,2 @@
+# Aphorisms
+Coding Aphorisms
