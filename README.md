@@ -11,5 +11,7 @@ FUN Coding Aphorisms For Everyone!
 
 ## CPP
 
-* Was du zur Compilezeit garantieren kannst, dass musst du zur Laufzeit nicht mehr prüfen
+* Was du zur Compilezeit garantieren kannst, musst du zur Laufzeit nicht mehr prüfen
+
+* Always return the truth
 
